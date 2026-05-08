@@ -1,0 +1,2 @@
+# SegmentasiCitra
+project UTS
